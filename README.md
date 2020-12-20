@@ -1,3 +1,5 @@
+# new [shc](https://github.com/ServerHealthCheck/shc) repo
+
 <p align="center">
     <a href="https://github.com/junglert/shc/">
         <img src="https://github.com/junglert/shc/blob/master/media/shc_logo.png" width="250" height="250" alt="shc">
