@@ -1,11 +1,11 @@
-# new [shc](https://github.com/ServerHealthCheck/shc) repo
+# shc is now a fully fletched organization with a new [shc](https://github.com/ServerHealthCheck/shc) repo
 
 <p align="center">
     <a href="https://github.com/junglert/shc/">
         <img src="https://github.com/junglert/shc/blob/master/media/shc_logo.png" width="250" height="250" alt="shc">
     </a>
     <br>
-    <strong>The easy way to display information about your device</strong>  
+    <strong>this repo is no longer in use</strong>  
 </p>
 
 # shc  | ServerHealthCheck	
