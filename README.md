@@ -5,7 +5,7 @@
         <img src="https://github.com/junglert/shc/blob/master/media/shc_logo.png" width="250" height="250" alt="shc">
     </a>
     <br>
-    <strong>this repo is no longer in use</strong>  
+    <strong>this repo is no longer being maintained</strong>  
 </p>
 
 # shc  | ServerHealthCheck	
