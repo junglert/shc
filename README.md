@@ -1,12 +1,13 @@
-# shc is now a fully fletched organization with a new [shc](https://github.com/ServerHealthCheck/shc) repo
-
 <p align="center">
     <a href="https://github.com/junglert/shc/">
         <img src="https://github.com/junglert/shc/blob/master/media/shc_logo.png" width="250" height="250" alt="shc">
     </a>
     <br>
-    <strong>this repo is no longer being maintained</strong>  
+    <strong> </strong>  
 </p>
+
+# shc is now a fully fletched organization with a new [shc](https://github.com/ServerHealthCheck/shc) repo
+# this repo is no longer being maintained - the new repo is the new WIP project
 
 # shc  | ServerHealthCheck	
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
