@@ -6,8 +6,13 @@
     <strong> </strong>  
 </p>
 
-# shc is now a fully fletched organization with a new [shc](https://github.com/ServerHealthCheck/shc) repo
-# this repo is no longer being maintained - the new repo is the new WIP project
+# shc is now a fully fletched organization
+# new repository --> [shc](https://github.com/ServerHealthCheck/shc)
+# this repository is no longer being maintained!
+
+<br>
+<br>
+
 
 # shc  | ServerHealthCheck	
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
